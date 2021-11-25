@@ -1,0 +1,10 @@
+.header_one{
+    font-size: 50px;
+    font-weight: 600;
+    letter-spacing: 1px;
+}
+.header_two{
+    font-size: 30px;
+    letter-spacing: .5px;
+    color: brown;
+}
